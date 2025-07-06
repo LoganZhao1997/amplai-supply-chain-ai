@@ -11,7 +11,7 @@ export const Hero = () => {
           <div className="flex-1 max-w-2xl">
             <div className="mb-8">
               <img 
-                src="/amplai-logo.jpeg" 
+                src={process.env.NODE_ENV === 'production' ? '/amplai-supply-chain-ai/amplai-logo.jpeg' : '/amplai-logo.jpeg'} 
                 alt="AmplAI Logo" 
                 className="h-16 mb-6"
               />
