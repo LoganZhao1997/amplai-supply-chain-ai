@@ -7,8 +7,6 @@ const founders = [
     role: "Co-Founder & CEO",
     education: "PhD in Artificial Intelligence, USC",
     experience: "AI Scientist at Meta",
-    expertise: "Artificial Intelligence, Machine Learning, Deep Learning",
-    description: "Dr. Zhao brings over 8 years of experience in AI research and development, having published 20+ papers in top-tier conferences. At Meta, he led AI initiatives that served billions of users, specializing in recommendation systems and natural language processing.",
     icon: Brain
   },
   {
@@ -16,8 +14,6 @@ const founders = [
     role: "Co-Founder & CTO",
     education: "PhD in Operations Research, USC",
     experience: "Applied Scientist at Amazon",
-    expertise: "Operations Research, Optimization, Supply Chain Analytics",
-    description: "Dr. Zhang has 7+ years of experience in operations research and supply chain optimization. At Amazon, she developed algorithms that optimized logistics networks across multiple continents, reducing costs by millions while improving delivery times.",
     icon: BarChart3
   }
 ];
