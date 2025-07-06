@@ -11,7 +11,7 @@ export const Hero = () => {
           <div className="flex-1 max-w-2xl">
             <div className="mb-8">
               <img 
-                src="/lovable-uploads/940246a2-b2be-439e-9fd6-a6b0106fb329.png" 
+                src="/amplai-logo.jpeg" 
                 alt="AmplAI Logo" 
                 className="h-16 mb-6"
               />
