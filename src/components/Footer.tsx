@@ -9,7 +9,7 @@ export const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <img 
-              src="src/figs/logo.jpeg" 
+              src="/amplai-logo.jpeg" 
               alt="AmplAI Logo" 
               className="h-12 mb-6 brightness-0 invert"
             />
