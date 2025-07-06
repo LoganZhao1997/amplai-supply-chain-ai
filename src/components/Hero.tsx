@@ -9,7 +9,7 @@ export const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
           {/* Left Content */}
           <div className="flex-1 max-w-2xl">
-            <div className="mb-8 flex justify-center">
+            <div className="mb-8">
               <img 
                 src={process.env.NODE_ENV === 'production' ? '/amplai-supply-chain-ai/amplai-logo.jpeg' : '/amplai-logo.jpeg'} 
                 alt="AmplAI Logo" 

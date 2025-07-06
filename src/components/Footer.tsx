@@ -8,13 +8,11 @@ export const Footer = () => {
         <div className="grid lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="lg:col-span-2">
-            <div className="flex justify-center mb-6">
-              <img 
-                src={process.env.NODE_ENV === 'production' ? '/amplai-supply-chain-ai/amplai-logo.jpeg' : '/amplai-logo.jpeg'} 
-                alt="AmplAI Logo" 
-                className="h-14 scale-120 opacity-90"
-              />
-            </div>
+            <img 
+              src={process.env.NODE_ENV === 'production' ? '/amplai-supply-chain-ai/amplai-logo.jpeg' : '/amplai-logo.jpeg'} 
+              alt="AmplAI Logo" 
+              className="h-14 mb-6 scale-120 opacity-90"
+            />
             <p className="text-gray-400 mb-6 leading-relaxed max-w-md">
               Empowering SMEs with AI-driven supply chain intelligence and operations research solutions. 
               Transform your operations with our digital project manager.
