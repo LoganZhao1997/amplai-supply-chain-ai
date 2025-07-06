@@ -12,7 +12,7 @@ export const Footer = () => {
               <img 
                 src={process.env.NODE_ENV === 'production' ? '/amplai-supply-chain-ai/amplai-logo.jpeg' : '/amplai-logo.jpeg'} 
                 alt="AmplAI Logo" 
-                className="h-14 brightness-0 invert scale-120"
+                className="h-14 scale-120 opacity-90"
               />
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed max-w-md">
