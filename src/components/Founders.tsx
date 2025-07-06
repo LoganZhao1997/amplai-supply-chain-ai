@@ -3,21 +3,17 @@ import { GraduationCap, Building2, Brain, BarChart3 } from "lucide-react";
 
 const founders = [
   {
-    name: "Dr. Alex Chen",
+    name: "Dr. Wentao Zhao",
     role: "Co-Founder & CEO",
     education: "PhD in Artificial Intelligence, USC",
     experience: "AI Scientist at Meta",
-    expertise: "Machine Learning, Computer Vision, NLP",
-    description: "Led breakthrough research in AI-driven optimization at Meta, with 50+ published papers and 3 patents in artificial intelligence applications.",
     icon: Brain
   },
   {
-    name: "Dr. Sarah Martinez",
+    name: "Dr. Xinyao Zhang",
     role: "Co-Founder & CTO",
     education: "PhD in Operations Research, USC",
     experience: "Applied Scientist at Amazon",
-    expertise: "Supply Chain Optimization, Mathematical Modeling",
-    description: "Developed large-scale optimization algorithms at Amazon that improved supply chain efficiency by 40% across multiple business units.",
     icon: BarChart3
   }
 ];
