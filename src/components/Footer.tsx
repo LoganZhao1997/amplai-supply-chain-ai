@@ -11,7 +11,7 @@ export const Footer = () => {
             <img 
               src={process.env.NODE_ENV === 'production' ? '/amplai-supply-chain-ai/amplai-logo.jpeg' : '/amplai-logo.jpeg'} 
               alt="AmplAI Logo" 
-              className="h-14 mb-6 scale-120 opacity-90"
+              className="h-14 mb-6 scale-200 opacity-90"
             />
             <p className="text-gray-400 mb-6 leading-relaxed max-w-md">
               Empowering SMEs with AI-driven supply chain intelligence and operations research solutions. 

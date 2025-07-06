@@ -13,7 +13,7 @@ export const Hero = () => {
               <img 
                 src={process.env.NODE_ENV === 'production' ? '/amplai-supply-chain-ai/amplai-logo.jpeg' : '/amplai-logo.jpeg'} 
                 alt="AmplAI Logo" 
-                className="h-20 mb-6 scale-120"
+                className="h-20 mb-6 scale-200"
               />
             </div>
             
