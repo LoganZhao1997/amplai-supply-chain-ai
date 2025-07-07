@@ -9,7 +9,7 @@ export const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <img 
-              src={process.env.NODE_ENV === 'production' ? '/amplai-supply-chain-ai/amplai-logo.jpeg' : '/amplai-logo.jpeg'} 
+              src="/amplai-logo.jpeg" 
               alt="AmplAI Logo" 
               className="h-14 mb-6 scale-200 opacity-90"
             />
