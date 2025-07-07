@@ -1,4 +1,5 @@
 
+import React from "react";
 import { TrendingUp, Clock, DollarSign, Target } from "lucide-react";
 
 const benefits = [

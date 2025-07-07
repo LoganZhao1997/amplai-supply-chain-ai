@@ -1,4 +1,5 @@
 
+import React from "react";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Play } from "lucide-react";
 
@@ -13,7 +14,7 @@ export const Hero = () => {
               <img 
                 src="/amplai-logo.jpeg" 
                 alt="AmplAI Logo" 
-                className="h-20 mb-6 scale-200"
+                className="h-20 mb-6 transform scale-[2]"
               />
             </div>
             

@@ -1,4 +1,5 @@
 
+import React from "react";
 import { Brain, BarChart3, Users, Zap, Shield, Globe } from "lucide-react";
 
 const features = [

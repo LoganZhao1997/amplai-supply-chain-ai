@@ -1,4 +1,5 @@
 
+import React from "react";
 import { GraduationCap, Building2, Brain, BarChart3 } from "lucide-react";
 
 const founders = [
@@ -7,6 +8,8 @@ const founders = [
     role: "Co-Founder & CEO",
     education: "PhD in Artificial Intelligence, USC",
     experience: "AI Scientist at Meta",
+    expertise: "Artificial Intelligence & Machine Learning",
+    description: "Leading expert in AI with extensive experience in developing scalable machine learning solutions for enterprise applications.",
     icon: Brain
   },
   {
@@ -14,6 +17,8 @@ const founders = [
     role: "Co-Founder & CTO",
     education: "PhD in Operations Research, USC",
     experience: "Applied Scientist at Amazon",
+    expertise: "Operations Research & Supply Chain Optimization",
+    description: "Specialist in mathematical optimization and supply chain analytics with proven track record in large-scale logistics systems.",
     icon: BarChart3
   }
 ];

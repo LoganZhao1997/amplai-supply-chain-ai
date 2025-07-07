@@ -1,4 +1,5 @@
 
+import React from "react";
 import { Mail, Phone, MapPin } from "lucide-react";
 
 export const Footer = () => {
@@ -11,7 +12,7 @@ export const Footer = () => {
             <img 
               src="/amplai-logo.jpeg" 
               alt="AmplAI Logo" 
-              className="h-14 mb-6 scale-200 opacity-90"
+              className="h-14 mb-6 transform scale-[2] opacity-90"
             />
             <p className="text-gray-400 mb-6 leading-relaxed max-w-md">
               Empowering SMEs with AI-driven supply chain intelligence and operations research solutions. 
