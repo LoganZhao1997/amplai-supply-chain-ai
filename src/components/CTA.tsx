@@ -21,7 +21,7 @@ export const CTA = () => {
               Start Free Trial
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
-            <Button variant="outline" size="lg" className="border-white text-white hover:bg-white px-8 py-4 rounded-lg font-semibold transition-all duration-300 hover:text-blue-600">
+            <Button variant="outline" size="lg"    className="border-blue-500 bg-blue-600 text-white hover:border-transparent hover:bg-orange-500 hover:text-white px-8 py-4 rounded-lg font-semibold transition-all duration-300">
               Schedule Demo
             </Button>
           </div>

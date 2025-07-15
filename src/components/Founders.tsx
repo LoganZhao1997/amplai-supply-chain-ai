@@ -15,7 +15,7 @@ const founders = [
   {
     name: "Dr. Xinyao Zhang",
     role: "Co-Founder & CTO",
-    education: "PhD in Optimization, USC",
+    education: "PhD in Mathematical Optimization, USC",
     experience: "Applied Scientist at Amazon",
     expertise: "Machine Learning & Supply Chain Optimization",
     description: "Specialist in mathematical optimization and machine learning for optimization with proven track record in large-scale supply chain systems.",
