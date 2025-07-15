@@ -84,11 +84,16 @@ export default {
 					to: {
 						height: '0'
 					}
-				}
+				},
+				'color-shift': {
+					'0%, 100%': { backgroundColor: '#f97316' }, // orange-500
+					'50%': { backgroundColor: '#3b82f6' },       // blue-500
+				  },
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				'color-shift': 'color-shift 1.5s infinite ease-in-out',
 			}
 		}
 	},
