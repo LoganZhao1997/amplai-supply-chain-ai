@@ -18,7 +18,7 @@ const founders = [
     education: "PhD in Mathematical Optimization, USC",
     experience: "Applied Scientist at Amazon",
     expertise: "Machine Learning & Supply Chain Optimization",
-    description: "Seasoned researcher and practitioner in mathematical optimization and machine learning, with proven track record in building AI solutions for large-scale supply chain systems.",
+    description: "Experienced expert in optimization and machine learning with a strong track record of delivering intelligent AI solutions for large-scale supply chain systems.",
     icon: BarChart3
   }
 ];
